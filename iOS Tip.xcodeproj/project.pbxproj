@@ -13,6 +13,7 @@
 		3FF132C923E36C86005551F5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FF132C723E36C86005551F5 /* Main.storyboard */; };
 		3FF132CB23E36C87005551F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FF132CA23E36C87005551F5 /* Assets.xcassets */; };
 		3FF132CE23E36C87005551F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FF132CC23E36C87005551F5 /* LaunchScreen.storyboard */; };
+		3FF132D623EA737D005551F5 /* CHW0118_fd_tipping.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FF132D523EA737D005551F5 /* CHW0118_fd_tipping.jpg */; };
 		F859F90B23E37CE400C5E3F8 /* 2016_10_31_14929_1477875180._large.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F859F90A23E37CE400C5E3F8 /* 2016_10_31_14929_1477875180._large.jpg */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 		3FF132CA23E36C87005551F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FF132CD23E36C87005551F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3FF132CF23E36C87005551F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FF132D523EA737D005551F5 /* CHW0118_fd_tipping.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = CHW0118_fd_tipping.jpg; path = ../../../../Desktop/CHW0118_fd_tipping.jpg; sourceTree = "<group>"; };
 		F859F90A23E37CE400C5E3F8 /* 2016_10_31_14929_1477875180._large.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 2016_10_31_14929_1477875180._large.jpg; path = ../../../../Desktop/2016_10_31_14929_1477875180._large.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -62,6 +64,7 @@
 				3FF132C323E36C86005551F5 /* SceneDelegate.swift */,
 				3FF132C523E36C86005551F5 /* ViewController.swift */,
 				3FF132C723E36C86005551F5 /* Main.storyboard */,
+				3FF132D523EA737D005551F5 /* CHW0118_fd_tipping.jpg */,
 				3FF132CA23E36C87005551F5 /* Assets.xcassets */,
 				F859F90A23E37CE400C5E3F8 /* 2016_10_31_14929_1477875180._large.jpg */,
 				3FF132CC23E36C87005551F5 /* LaunchScreen.storyboard */,
@@ -130,6 +133,7 @@
 			files = (
 				F859F90B23E37CE400C5E3F8 /* 2016_10_31_14929_1477875180._large.jpg in Resources */,
 				3FF132CE23E36C87005551F5 /* LaunchScreen.storyboard in Resources */,
+				3FF132D623EA737D005551F5 /* CHW0118_fd_tipping.jpg in Resources */,
 				3FF132CB23E36C87005551F5 /* Assets.xcassets in Resources */,
 				3FF132C923E36C86005551F5 /* Main.storyboard in Resources */,
 			);
